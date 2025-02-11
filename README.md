@@ -28,10 +28,9 @@ After running the prompt, you will see the generated script. You can copy the sc
 
 If you have any AI-driven prompts that you would like to add to this list, please create a pull request, follow the format below, and I will add it to the list.
 
-## Prompts
+## PowerShell Prompts
 
 ### Beginner
-1. <a href="https://github.com/copilot?prompt=use%20powershell%20to%20read%20a%20csv" target="_blank" rel="noopener noreferrer">Use Powershell To Read A Csv</a>
 1. [Use Powershell To Read A Csv](https://github.com/copilot?prompt=use%20powershell%20to%20read%20a%20csv)
 1. [Use Powershell To List Active Directory Users](https://github.com/copilot?prompt=use%20powershell%20to%20list%20active%20directory%20users)
 1. [Use Powershell To Restart A Windows Service](https://github.com/copilot?prompt=use%20powershell%20to%20restart%20a%20windows%20service)
