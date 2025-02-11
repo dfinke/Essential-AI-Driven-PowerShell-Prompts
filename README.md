@@ -8,7 +8,7 @@ This is a free service from Microsoft GitHub. Think ChatGPT and much more.
 - [Click Run The Prompt](#click-run-the-prompt)
 - [After Running The Prompt](#after-running-the-prompt)
 - [Contribute](#contribute)
-- [Prompts](#prompts)
+- [PowerShell Prompts](#powershell-prompts)
     - [Beginner](#beginner)
     - [Intermediate](#intermediate)
     - [Advanced](#advanced)
