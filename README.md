@@ -7,6 +7,7 @@ This is a free service from Microsoft GitHub. Think ChatGPT and much more.
 ## Table of Contents
 - [Click Run The Prompt](#click-run-the-prompt)
 - [After Running The Prompt](#after-running-the-prompt)
+- [In Action](#in-action)
 - [Contribute](#contribute)
 - [PowerShell Prompts](#powershell-prompts)
     - [Beginner](#beginner)
@@ -23,6 +24,10 @@ After clicking on the prompt, you will be taken to the GitHub Copilot page where
 After running the prompt, you will see the generated script. You can copy the script by clicking on the `Copy` button or download the script by clicking on the `Download` button.
 
 ![alt text](/assets/AfterRunning.png)
+
+## In Action
+
+![alt text](/assets/Essential-PowerShell-Prompts.gif)
 
 ## Contribute
 
