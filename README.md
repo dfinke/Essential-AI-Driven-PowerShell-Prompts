@@ -5,33 +5,14 @@ Below is a list of AI-driven prompts that you can use to generate PowerShell scr
 This is a free service from Microsoft GitHub. Think ChatGPT and much more.
 
 ## Table of Contents
-- [Click Run The Prompt](#click-run-the-prompt)
-- [After Running The Prompt](#after-running-the-prompt)
-- [In Action](#in-action)
-- [Contribute](#contribute)
 - [PowerShell Prompts](#powershell-prompts)
     - [Beginner](#beginner)
     - [Intermediate](#intermediate)
     - [Advanced](#advanced)
-
-## Click Run The Prompt
-
-After clicking on the prompt, you will be taken to the GitHub Copilot page where you can generate the script. Click on the `Run The Prompt` button to generate the script.
-
-![alt text](/assets/ClickRunPrompt.png)
-## After Running The Prompt
-
-After running the prompt, you will see the generated script. You can copy the script by clicking on the `Copy` button or download the script by clicking on the `Download` button.
-
-![alt text](/assets/AfterRunning.png)
-
-## In Action
-
-![alt text](/assets/Essential-PowerShell-Prompts.gif)
-
-## Contribute
-
-If you have any AI-driven prompts that you would like to add to this list, please create a pull request, follow the format below, and I will add it to the list.
+- [Click Run The Prompt](#click-run-the-prompt)
+- [After Running The Prompt](#after-running-the-prompt)
+- [In Action](#in-action)
+- [Contribute](#contribute)
 
 ## PowerShell Prompts
 
@@ -82,3 +63,22 @@ If you have any AI-driven prompts that you would like to add to this list, pleas
 1. [Use Powershell To Perform Data Migrations](https://github.com/copilot?prompt=use%20powershell%20to%20perform%20data%20migrations)
 1. [Use Powershell To Manage AWS Resources](https://github.com/copilot?prompt=use%20powershell%20to%20manage%20aws%20resources)
 1. [Use Powershell To Automate SQL Server Tasks](https://github.com/copilot?prompt=use%20powershell%20to%20automate%20sql%20server%20tasks)
+
+## Click Run The Prompt
+
+After clicking on the prompt, you will be taken to the GitHub Copilot page where you can generate the script. Click on the `Run The Prompt` button to generate the script.
+
+![alt text](/assets/ClickRunPrompt.png)
+## After Running The Prompt
+
+After running the prompt, you will see the generated script. You can copy the script by clicking on the `Copy` button or download the script by clicking on the `Download` button.
+
+![alt text](/assets/AfterRunning.png)
+
+## In Action
+
+![alt text](/assets/Essential-PowerShell-Prompts.gif)
+
+## Contribute
+
+If you have any AI-driven prompts that you would like to add to this list, please create a pull request, follow the format below, and I will add it to the list.
