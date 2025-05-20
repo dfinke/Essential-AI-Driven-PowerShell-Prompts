@@ -12,6 +12,10 @@ This is a free service from Microsoft GitHub. Think ChatGPT and much more.
 - [Click Run The Prompt](#click-run-the-prompt)
 - [After Running The Prompt](#after-running-the-prompt)
 - [In Action](#in-action)
+- [Resources](#resources)
+- [Repository](#repository)
+- [Author](#author)
+- [Related Projects](#related-projects)
 - [Contribute](#contribute)
 
 ## PowerShell Prompts
@@ -78,6 +82,35 @@ After running the prompt, you will see the generated script. You can copy the sc
 ## In Action
 
 ![alt text](/assets/Essential-PowerShell-Prompts.gif)
+
+## Resources
+
+- [PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/)
+- [Microsoft Learn - PowerShell](https://learn.microsoft.com/en-us/powershell/)
+- [PowerShell GitHub Repository](https://github.com/PowerShell/PowerShell)
+- [PowerShell Community](https://powershell.org/)
+- [PowerShell Discord](https://discord.gg/powershell)
+- [PowerShell Gallery](https://www.powershellgallery.com/)
+
+## Repository
+
+- [Essential AI-Driven PowerShell Prompts Repository](https://github.com/dfinke/Essential-AI-Driven-PowerShell-Prompts)
+- [Report Issues](https://github.com/dfinke/Essential-AI-Driven-PowerShell-Prompts/issues)
+- [Pull Requests](https://github.com/dfinke/Essential-AI-Driven-PowerShell-Prompts/pulls)
+
+## Author
+
+- [Doug Finke](https://github.com/dfinke)
+- [Doug's Blog](https://dfinke.github.io/)
+- [Doug on Twitter](https://twitter.com/dfinke)
+
+## Related Projects
+
+- [PowerShell for Developers](https://github.com/dfinke/PowerShellForGitHub)
+- [ImportExcel](https://github.com/dfinke/ImportExcel)
+- [PowerShell AI](https://github.com/dfinke/PowerShellAI)
+- [PowerShell for GitHub](https://github.com/microsoft/PowerShellForGitHub)
+- [PowerShell Crescendo](https://github.com/PowerShell/Crescendo)
 
 ## Contribute
 
