@@ -40,7 +40,7 @@ This is a free service from Microsoft GitHub. Think ChatGPT and much more.
 1. [Use Powershell To Create A New Active Directory User](https://github.com/copilot?prompt=use%20powershell%20to%20create%20a%20new%20active%20directory%20user)
 1. [Use Powershell To Generate Performance Reports](https://github.com/copilot?prompt=use%20powershell%20to%20generate%20performance%20reports)
 1. [Use Powershell To Backup System Registry](https://github.com/copilot?prompt=use%20powershell%20to%20backup%20system%20registry)
-1. [Use Powershell To Configure Remote Desktop Settings](https://github.com/copilot?pompt=use%20powershell%20to%20configure%20remote%20desktop%20settings)
+1. [Use Powershell To Configure Remote Desktop Settings](https://github.com/copilot?prompt=use%20powershell%20to%20configure%20remote%20desktop%20settings)
 1. [Use Powershell To Monitor Network Traffic](https://github.com/copilot?prompt=use%20powershell%20to%20monitor%20network%20traffic)
 1. [Use Powershell To Create A Local Admin User](https://github.com/copilot?prompt=use%20powershell%20to%20create%20a%20local%20admin%20user)
 1. [Use Powershell To Join A Computer To A Domain](https://github.com/copilot?prompt=use%20powershell%20to%20join%20a%20computer%20to%20a%20domain)
